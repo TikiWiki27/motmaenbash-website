@@ -1,0 +1,13 @@
+{
+  "AndroidApp": {
+    "GooglePlay": "https://play.google.com/store/apps/details?id=nu.milad.motmaenbash",
+    "Bazzar": "https://cafebazaar.ir/app/nu.milad.motmaenbash",
+    "Myket": "https://myket.ir/app/nu.milad.motmaenbash?utm_source=search-ads-gift&utm_medium=cpc",
+    "F-Droid": "#"
+  },
+  "Extensions": {
+    "GoogleChrome": "https://chromewebstore.google.com/detail/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/efhpmpdbeaganelnekhbffjphahncbgn",
+    "Firefox": "https://addons.mozilla.org/en-US/firefox/addon/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/",
+    "Yandex": "https://chrome.google.com/webstore/detail/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/efhpmpdbeaganelnekhbffjphahncbgn"
+  }
+}
