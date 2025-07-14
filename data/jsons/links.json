@@ -22,25 +22,67 @@
     {
       "browser": "Google Chrome",
       "url": "https://chromewebstore.google.com/detail/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/efhpmpdbeaganelnekhbffjphahncbgn",
-      "platforms":[
-        "desktop"
-      ]
+      "platforms": ["desktop"]
     },
     {
       "browser": "Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/",
-      "platforms":[
-        "desktop",
-        "android"
-      ]
+      "platforms": ["desktop", "android"]
     },
     {
       "browser": "Yandex",
       "url": "https://chrome.google.com/webstore/detail/motmaenbash-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4/efhpmpdbeaganelnekhbffjphahncbgn",
-      "platforms":[
-        "android",
-        "desktop"
-      ]
+      "platforms": ["android", "desktop"]
+    }
+  ],
+  "sources": [
+    {
+      "platform": "Github",
+      "title": "نسخه اندروید",
+      "license": " Apache license 2.0",
+      "url": "https://github.com/motmaenbash/motmaenbash-android"
+    },
+    {
+      "platform": "Github",
+      "title": "اکستنشن کروم",
+      "license": "MIT License",
+      "url": "https://github.com/motmaenbash/motmaenbash-chrome"
+    },
+    {
+      "platform": "Github",
+      "title": "اکستنشن فایرفاکس",
+      "license": "MIT License",
+      "url": "https://github.com/motmaenbash/motmaenbash-firefox"
+    },
+    {
+      "platform": "Github",
+      "title": "وب سایت مطمئن باش",
+      "license": " MIT license",
+      "url": "https://github.com/motmaenbash/motmaenbash-website"
+    },
+    {
+      "platform": "Github",
+      "title": "پایگاه داده مطمئن باش",
+      "license": "CC-BY-4.0 license",
+      "url": "https://github.com/miladnouri/motmaenbash-data"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Digiato",
+      "url": "https://digiato.com/iran-technology-news/unveiling-android-app-motmaenbash"
+    },
+    {
+      "name": "NooshDaroo",
+      "url": "https://nooshdaroo.ir/security-tools/motmaen-bash/"
+    },
+    {
+      "name": "Zoomit",
+      "url": "https://www.zoomit.ir/software-application/443587-motmaen-bash-milad-nouri-app-released-android/"
+    },
+    {
+      "name": "ICTNA",
+      "url": "https://ictna.ir/id/196908/"
     }
   ]
 }
